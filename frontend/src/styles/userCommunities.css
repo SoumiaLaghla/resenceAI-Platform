@@ -1,0 +1,45 @@
+.user-communities {
+    margin-top: 0; /* Enlève le haut de marge */
+}
+
+.user-communities h2 {
+    font-size: 24px;
+    margin-bottom: 5px; 
+}
+
+.community-list {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr); /* Organise les cartes en trois colonnes */
+    gap: 5px; /* Espacement entre les cartes */
+    padding: 10px;
+    margin-top: 5px;
+}
+
+.community-card-home {
+    background-color: #d0d7d1;
+    padding: 10px; /* Augmente le padding pour un meilleur espacement */
+    border-radius: 10px;
+    min-height: 20px; /* Hauteur minimale augmentée pour une meilleure apparence */
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    cursor: pointer;
+    transition: transform 0.3s ease;
+    display: flex;
+    justify-content: flex-start; /* Aligne le contenu à gauche */
+    align-items: center; /* Centre verticalement */
+}
+
+.community-card-home:hover {
+    transform: translateY(-5px); /* Ajoute un effet de survol pour l'interaction */
+    background-color: #F5F5DC;
+}
+
+.community-card-home h3 {
+    font-size: 15px;
+    margin: 2px 0; /* Ajoute un peu de marge en haut et en bas */
+}
+
+.community-card-home p {
+    font-size: 14px;
+    color: #666;
+    margin: 0; /* Élimine la marge pour éviter de pousser le contenu */
+}

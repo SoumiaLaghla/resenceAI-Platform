@@ -1,0 +1,41 @@
+.back-button {
+    background-color: #12372A; /* Couleur de Twitter */
+    color: white;
+    border: none;
+    border-radius: 50%; /* Forme circulaire */
+    width: 60px; /* Taille du bouton */
+    height: 60px; /* Taille du bouton */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    cursor: pointer;
+    transition: background-color 0.3s;
+    margin-bottom: 10px;
+}
+
+.back-button:hover {
+    background-color: #436851;
+}
+
+.piedPage {
+    height: 50px;
+}
+
+table, td {
+    background-color: #eaece6; /* Couleur de fond pour le tableau et les cellules */
+    padding: 10px; /* Ajout d'un espace interne de 10px */
+}
+
+th {
+    background-color: #ADBC9F;
+    color: #12372A;
+    padding: 10px; /* Ajout d'un espace interne de 10px */
+}
+
+table {
+    width: 80%;
+    border-collapse: collapse; /* Pour supprimer l'espacement par défaut entre les bordures */
+    border-color: #12372A;
+}

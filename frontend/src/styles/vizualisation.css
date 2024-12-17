@@ -1,0 +1,123 @@
+.back-button {
+  background-color: #12372A;
+  color: white;
+  border: none;
+  border-radius: 50%; /* Forme circulaire */
+  width: 60px; /* Taille du bouton */
+  height: 60px; /* Taille du bouton */
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  cursor: pointer;
+  transition: background-color 0.3s;
+  margin-bottom: 10px;
+}
+
+.back-button:hover {
+  background-color: #436851;
+}
+
+/* Styles pour les titres de section */
+h3 {
+  color: #12372A; /* Couleur pour les titres */
+  border-bottom: 2px solid #739F82; /* Soulignement */
+  padding-bottom: 10px;
+}
+
+/* Styles pour les sélecteurs d'axes */
+.axis-selector {
+  display: flex;
+  justify-content: space-between;
+  margin: 20px 0;
+}
+
+.axis-selector label {
+  color: #446b5a; /* Couleur pour les étiquettes */
+  margin-right: 5px;
+}
+
+.axis-selector select {
+  padding: 8px;
+  width: 350px;
+  border: 1px solid #426B56; /* Bordure des sélecteurs */
+  border-radius: 5px;
+  background-color: #F5F5DC; /* Couleur d'arrière-plan des sélecteurs */
+}
+
+/* Styles pour les éléments des graphiques */
+h5 {
+  color: #426B56;
+  text-align: center;
+}
+
+  
+  .chart-container {
+    margin-bottom: 40px;
+  }
+  
+  
+  
+  
+  
+  .chart-scatter .chart-histo {
+    width: 80%;
+  }
+
+  
+.chart-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 40px; /* Espace entre les cartes */
+  padding: 20px;
+}
+.chart-pair {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 40px; /* Augmentez l'espacement entre les graphiques */
+  width: 90%;
+  margin-bottom: 40px; /* Espace supplémentaire en bas des graphiques */
+  border: 1px solid #ccc; /* Bordure des graphiques */
+  padding: 20px;
+  border-radius: 8px;
+  background-color: #f9f9f9;
+}
+
+/* Assurez-vous que les graphiques sont bien dimensionnés */
+.chart-pie {
+  flex: 1;
+  min-width: 300px; /* Largeur minimale pour chaque graphique */
+  max-width: 350px; /* Largeur maximale pour chaque graphique */
+}
+
+/* Assurer que les graphiques s'adaptent bien */
+.chart {
+  flex: 1;
+  min-width: 250px; /* Taille minimale pour chaque graphique */
+  max-width: 300px; /* Taille maximale pour chaque graphique */
+}
+
+  .chart-pair .recharts-wrapper {
+    width: 100%;
+  }
+  
+  .piedPage{
+    height: 30px;
+  }
+  .download-button {
+    background-color: #436851;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    margin: 10px;
+  }
+  
+  .download-button:hover {
+    background-color: #F5F5DC;
+  }
+  

@@ -1,0 +1,60 @@
+/* posts.css */
+
+.home-page {
+    padding: 10px;
+}
+
+.section-divider {
+    border-top: 2px solid #e0e0e0; /* Bordure entre les sections */
+    margin: 20px 0; /* Espace entre les sections */
+    padding-top: 20px;
+}
+
+.posts {
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center; 
+
+}
+.bouttons {
+    display: flex;                 /* Use flexbox for layout */
+    flex-direction: column;       /* Stack buttons vertically */
+    position: fixed;              /* Keep buttons fixed */
+    top: 20px;                    /* Space from the top */
+    right: 20px;                  /* Space from the right */
+    gap: 10px;                    /* Space between buttons */
+}
+
+.create-post-button, .manage-users-button {
+    background-color: #12372A; /* Couleur de Twitter */
+    color: white;
+    border: none;
+    border-radius: 50%; /* Forme circulaire */
+    width: 60px; /* Taille du bouton */
+    height: 60px; /* Taille du bouton */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    cursor: pointer;
+    transition: background-color 0.3s;
+    
+}
+
+.create-post-button:hover, .manage-users-button:hover {
+    background-color: #12372A; /* Maintenir la couleur au survol */
+}
+
+
+.plus-icon {
+    font-size: 24px; /* Taille de l'icône plus */
+    line-height: 1; /* Éviter les espaces supplémentaires */
+}
+
+
+
+.posts-container {
+    margin-top: 80px; /* Ajustez pour éviter le chevauchement avec le bouton */
+    width: 100%;
+}

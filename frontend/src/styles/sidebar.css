@@ -1,0 +1,97 @@
+.app-container {
+  display: flex;
+  height: 100vh; /* Prend toute la hauteur de la fenêtre */
+  transition: margin-left 0.3s ease;
+}
+
+.sidebar {
+  height: 100vh;
+  background-color: #d3d8ce;
+  padding: 10px;
+  position: fixed;
+  top: 0;
+  left: 0;
+  transition: width 0.3s ease;
+}
+
+.sidebar.open {
+  width: 270px; /* Largeur de la sidebar lorsqu'elle est ouverte */
+}
+
+.sidebar.closed {
+  width: 70px; /* Largeur de la sidebar lorsqu'elle est fermée */
+}
+
+.sidebar-header {
+  margin-top: 20px;
+  margin-left: 10px;
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+}
+
+.sidebar-title {
+  margin-left: 10px;
+  font-size: 28px;
+}
+
+.sidebar-nav {
+  margin-top: 20px;
+}
+
+.sidebar-link {
+  display: flex;
+  align-items: center;
+  padding: 8px 12px;
+  color: #333;
+  text-decoration: none;
+  transition: background 0.3s;
+  margin-right: 5px;
+  margin-bottom: 5px;
+}
+
+.sidebar-link.active-link {
+  background-color: #F5F5DC;
+}
+
+.sidebar-link:hover {
+  background-color: #F5F5DC;
+}
+
+.sidebar-icon {
+  margin-right: 10px;
+}
+
+.main-content {
+  flex-grow: 1;
+  padding: 20px;
+  transition: margin-left 0.3s ease;
+}
+
+.app-container.sidebar-open .main-content {
+  margin-left: 220px; /* Ajuste la marge gauche en fonction de l'état ouvert de la sidebar */
+}
+
+.app-container.sidebar-closed .main-content {
+  margin-left: 70px; /* Ajuste la marge gauche en fonction de l'état fermé de la sidebar */
+
+}
+
+
+body[dir="rtl"] .sidebar.open {
+  left: auto; /* Annule la position left */
+  right: 0; /* Positionne à droite pour les langues RTL */
+}
+
+body[dir="rtl"] .sidebar.closed {
+  right: 0; /* La sidebar reste à droite mais est réduite */
+  width: 70px; /* Largeur de la sidebar fermée */
+}
+
+body[dir="rtl"] .app-container.sidebar-open .main-content {
+  margin-right: 220px; /* Ajuste la marge droite pour les langues RTL */
+}
+
+body[dir="rtl"] .app-container.sidebar-closed .main-content {
+  margin-right: 70px; /* Ajuste la marge droite pour les langues RTL */
+}

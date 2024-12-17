@@ -1,0 +1,64 @@
+.manage-community-members {
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.manage-community-members h2 {
+    font-size: 24px;
+    color: #333;
+}
+
+.manage-community-members h3 {
+    font-size: 20px;
+    color: #555;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+}
+
+th, td {
+    padding: 12px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+}
+
+th {
+    background-color: #f2f2f2;
+}
+
+tr:hover {
+    background-color: #f5f5f5;
+}
+
+.add-members-container {
+    display: flex;
+    flex-direction: column;
+    margin-top: 10px;
+}
+
+.member-select {
+    margin-bottom: 10px;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    background-color: #fff;
+}
+
+.add-member-button {
+    padding: 10px 15px;
+    border: none;
+    border-radius: 4px;
+    background-color: #627f63;
+    color: white;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+.add-member-button:hover {
+    background-color: #45a049;
+}

@@ -1,0 +1,128 @@
+ 
+  .comment-author-image, .comment-author-icon {
+    width: 40px; /* Ajustez la taille de l'image ou icône */
+    height: 40px;
+    border-radius: 50%;
+    margin-right: 10px; /* Espace entre l'image/icône et le texte */
+  }
+  
+  .comment-author-info {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .comment-author {
+    font-weight: bold;
+    margin: 0; /* Supprime les marges par défaut */
+  }
+  
+  .comment-date {
+    font-size: 0.9em; /* Réduit légèrement la taille de la police pour la date */
+    color: #666; /* Couleur de la date */
+    margin: 0; /* Supprime les marges par défaut */
+  }
+  
+  .comment-form {
+    display: flex;
+    align-items: center;
+    margin-top: 20px;
+  }
+  
+  .comment-input {
+    height: 30px;
+    flex: 1;
+    padding: 10px;
+    margin-right: 10px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+  }
+  
+  .submit-button {
+    background-color: #12372A;
+    border: none;
+    border-radius: 50%;
+    width: 20px;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  .submit-button:hover {
+    background-color: #9fa2a1;
+  }
+  
+  .submit-button svg {
+    color: white;
+  }
+  .comment-header {
+    display: flex;
+    align-items: center; /* Aligne les éléments verticalement */
+    margin-bottom: 10px; /* Espace sous le header du commentaire */
+    margin-top: 5px;
+  }
+  
+  
+  .comments-info {
+    display: flex;
+    align-items: center; /* Aligne l'icône et le nombre de commentaires */
+  }
+  
+  .comments-icon {
+    margin-right: 8px; /* Espace entre l'icône et le nombre de commentaires */
+  }
+  
+  .comments-count {
+    font-size: 1em;
+    font-weight: bold;
+  }
+  .comment-author-image {
+    width: 40px; 
+    height: 40px;
+    border-radius: 50%;
+    margin-right: 10px; 
+  }
+  .comment {
+    border-bottom: 3px solid #ddd; /* Bordure en bas de chaque commentaire */
+    padding: 2px 0; /* Ajoute de l'espace au-dessus et en dessous du commentaire */
+  }
+  
+  .comment:last-child {
+    border-bottom: none; /* Supprime la bordure pour le dernier commentaire */
+  }
+  .comments-header {
+    display: flex;
+    justify-content: space-between; /* Aligne le titre et les informations des commentaires */
+    align-items: center; /* Centre verticalement les éléments */
+  }
+  
+  .comments-info {
+    display: flex;
+    align-items: center; /* Aligne l'icône et le nombre de commentaires */
+  }
+  
+  .comments-icon {
+    margin-right: 8px; 
+  }
+  
+  .comments-count {
+    font-size: 1em;
+    font-weight: bold;
+  }
+  .edit-icon, .delete-icon {
+    cursor: pointer;
+    color: #000b07; /* Assurez-vous que la couleur soit correcte */
+    
+    
+  }
+  .toolbox{
+    margin-right: 0px;
+    margin-left: 1070px;
+  }
+  
+  .edit-icon:hover, .delete-icon:hover {
+    color: #000a07; /* Change la couleur au survol */
+  }
+  

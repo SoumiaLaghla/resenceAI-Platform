@@ -1,0 +1,131 @@
+/* Style de base pour la page des communautés */
+.communities-page {
+    padding: 5px;
+}
+
+/* Grille de deux colonnes pour les cartes de communautés */
+.communities-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr); /* Deux colonnes */
+    gap: 20px; /* Espacement entre les cartes */
+    margin-top: 20px;
+}
+
+/* Style de base pour chaque carte de communauté */
+.community-card {
+    background-color: #c7cfc0;
+    border-radius: 8px;
+    padding: 15px; 
+    position: relative;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    min-height: 200px; /* Hauteur minimum réduite */
+    cursor: pointer;
+}
+h2 {
+    font-size: 3em;
+    color: #405d4e; /* Vert foncé */
+    text-align: left;
+    padding-bottom: 10px;
+    margin-bottom: 30px;
+}
+
+/* Style pour le nom et la description de la communauté */
+.community-name {
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 10px;
+    font-style: oblique;
+}
+
+.community-description {
+    font-style: oblique;
+    margin-bottom: 15px;
+    color: #555;
+    flex-grow: 1; /* Permet à la description d'occuper l'espace disponible */
+}
+
+.community-date {
+    font-size: 13px;
+    color: #888;
+    margin-bottom: 10px;
+}
+
+/* Style pour les boutons d'action en bas de la carte */
+.community-actions {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+/* Style du bouton "Join" */
+.join-button {
+    background-color: #436851;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 8px 12px;
+    cursor: pointer;
+}
+
+/* Style du bouton "Leave" avec icône */
+.leave-button {
+    background-color: #f6f6cd;
+    color: black;
+    border: none;
+    border-radius: 5px;
+    padding: 8px 12px;
+    cursor: pointer;
+}
+
+/* Style de l'icône "Delete" dans le coin supérieur droit */
+.delete-button {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    background: none;
+    border: none;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+/* Style de la carte de création de communauté */
+.create-community-card {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #f0f0f0;
+    border-radius: 8px;
+    padding: 20px;
+    cursor: pointer;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    min-height: 200px; /* Hauteur égale aux cartes des communautés */
+}
+
+.create-community-card i {
+    font-size: 50px;
+    color: #12372A;
+}
+
+.create-community-card p {
+    margin-top: 10px;
+    color: #12372A;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.create-community-card:hover {
+    background-color: #F5F5DC; /* Couleur de fond lors du hover */
+}
+
+/* Avatars des membres de la communauté */
+.community-avatars {
+    margin-top: 10px;
+}
+
+.Avatar{
+    background: #12372A;
+}
