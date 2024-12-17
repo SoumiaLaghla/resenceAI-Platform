@@ -1,0 +1,21 @@
+ID_Habitation,Adresse,Ville,Code_Postal,Nb_Residents,Revenu_Mensuel_Menage_Principal (MAD),Statut_Emploi_Resident_Principal,Statut_Emploi_Resident_Secondaire,Mode_Transport_Principal,Accès_Internet
+1,12 Rue Hassan II,Rabat,10000,4,12000,Salarié,Indépendant,Voiture,Oui
+2,34 Rue des Oudayas,Casablanca,20000,6,8000,Sans emploi,Salarié,Bus,Non
+3,56 Rue des Palmiers,Fès,30000,3,10000,Salarié,Salarié,Voiture,Oui
+4,78 Avenue Moulay Youssef,Marrakech,40000,8,15000,Indépendant,Salarié,Moto,Non
+5,90 Rue des Roses,Agadir,80000,5,5000,Indépendant,Indépendant,Vélo,Non
+6,123 Avenue Mohammed V,Tanger,90000,3,18000,Salarié,Salarié,Tramway,Oui
+7,234 Rue Oued Sebou,Meknès,50000,7,7000,Sans emploi,Sans emploi,Bus,Non
+8,345 Rue El Alaoui,Oujda,60000,2,9500,Salarié,Sans emploi,Voiture,Oui
+9,456 Rue des Cèdres,Laâyoune,70000,6,6000,Indépendant,Salarié,Taxi,Non
+10,567 Avenue Errachidia,Nador,62000,4,14000,Salarié,Salarié,Voiture,Oui
+11,678 Rue El Khalifa,Mohammédia,20800,4,11000,Salarié,Indépendant,Bus,Oui
+12,789 Rue des Amandiers,Essaouira,44000,5,5000,Indépendant,Sans emploi,Vélo,Non
+13,890 Rue El Fida,Casablanca,20250,2,8000,Salarié,Salarié,Tramway,Oui
+14,901 Avenue El Jadida,Settat,26000,5,7500,Indépendant,Salarié,Moto,Non
+15,1012 Rue Mohammed V,Beni Mellal,23000,6,9500,Indépendant,Indépendant,Bus,Non
+16,1113 Rue Oued Eddahab,Dakhla,73000,4,6000,Sans emploi,Sans emploi,Taxi,Non
+17,1214 Rue des Jasmins,Marrakech,40000,3,10000,Salarié,Indépendant,Voiture,Oui
+18,1315 Rue Ibn Batouta,Tétouan,93000,6,13000,Salarié,Salarié,Bus,Oui
+19,1416 Avenue Hassan II,Kenitra,14000,2,9000,Salarié,Sans emploi,Tramway,Oui
+20,1517 Rue Oued Laou,Tanger,90000,7,7000,Indépendant,Salarié,Voiture,Non

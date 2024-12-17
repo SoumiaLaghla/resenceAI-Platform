@@ -1,0 +1,11 @@
+ID_Habitation,Type_Logement,Surface_Logement (m²),Nombre_Pièces,Type_Propriété,Accès_Eau_Potable,Accès_Électricité,Accès_Téléphone_Fixe,Accès_Internet,Région,Ville
+1,Appartement,90,4,Loué,Oui,Oui,Non,Oui,Rabat-Salé-Kénitra,Rabat
+2,Maison individuelle,120,6,Propriété,Oui,Oui,Oui,Non,Grand Casablanca-Casablanca,Casablanca
+3,Appartement,75,3,Loué,Oui,Oui,Non,Oui,Fès-Meknès,Fès
+4,Riad,150,8,Propriété,Non,Oui,Non,Non,Marrakech-Safi,Marrakech
+5,Villa,300,10,Propriété,Oui,Oui,Oui,Oui,Tanger-Tétouan-Al Hoceïma,Tanger
+6,Maison individuelle,85,5,Loué,Oui,Oui,Non,Non,Souss-Massa,Agadir
+7,Appartement,65,3,Loué,Non,Oui,Non,Non,L'Oriental,Oujda
+8,Riad,200,6,Propriété,Non,Non,Non,Non,Fès-Meknès,Meknès
+9,Appartement,50,2,Loué,Oui,Oui,Non,Oui,Béni Mellal-Khénifra,Béni Mellal
+10,Maison individuelle,110,5,Propriété,Oui,Oui,Oui,Non,Dakhla-Oued Eddahab,Dakhla

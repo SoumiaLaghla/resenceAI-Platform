@@ -1,0 +1,16 @@
+ID,Région,Tranche d'âge (années),Sexe,Population
+1,Zone urbaine,0-14,F,5000
+2,Zone urbaine,0-14,M,4800
+3,Zone urbaine,15-29,F,6000
+4,Zone urbaine,15-29,M,6200
+5,Zone rurale,0-14,F,2000
+6,Zone rurale,0-14,M,1900
+7,Zone rurale,15-29,F,2500
+8,Zone rurale,15-29,M,2600
+9,Zone urbaine,30-44,F,4500
+10,Zone urbaine,30-44,M,4700
+11,Zone rurale,30-44,F,1500
+12,Zone rurale,30-44,M,1600
+13,Zone urbaine,45-59,F,3000
+14,Zone urbaine,45-59,M,3100
+15,Zone rurale,45-59,F,1200

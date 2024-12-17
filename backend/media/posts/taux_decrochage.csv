@@ -1,0 +1,16 @@
+ID,Région,Niveau éducatif,Taux de décrochage (%),Revenu moyen des parents (en USD),Nombre d'élèves dans la région
+1,Région Nord,Primaire,5,1500,3000
+2,Région Sud,Collège,12,800,2000
+3,Région Est,Lycée,8,1200,2500
+4,Région Ouest,Primaire,6,1400,3200
+5,Région Nord,Collège,10,1000,2800
+6,Région Sud,Lycée,15,700,1800
+7,Région Est,Primaire,4,1600,3400
+8,Région Ouest,Collège,11,900,2200
+9,Région Nord,Lycée,9,1300,2600
+10,Région Sud,Primaire,7,1100,3000
+11,Région Est,Collège,13,750,2100
+12,Région Ouest,Lycée,14,850,1900
+13,Région Nord,Primaire,5,1550,3300
+14,Région Sud,Collège,12,950,2400
+15,Région Est,Lycée,8,1250,2700

@@ -1,0 +1,21 @@
+ID_Habitation,Adresse,Ville,Code_Postal,Nb_Residents,Nb_Enfants,Niveau_Educatif_Resident_Principal,Niveau_Educatif_Resident_Secondaire,Niveau_Educatif_Enfants
+1,123 Rue des Fleurs,Paris,75000,4,2,Licence,Master,Lycée,Collège
+2,456 Avenue des Champs,Marseille,13000,5,3,Baccalauréat,Doctorat,Lycée,Collège,Primaire
+3,789 Boulevard de la Mer,Nice,06000,2,0,Master,Aucun,
+4,321 Rue du Lac,Lyon,69000,3,1,Baccalauréat,Licence,Lycée
+5,654 Rue des Palmiers,Toulouse,31000,2,0,Doctorat,Master,
+6,987 Place de la Liberté,Lille,59000,1,0,Licence,, 
+7,111 Rue de la Paix,Strasbourg,67000,6,4,Master,Baccalauréat,Lycée,Primaire,Collège,Primaire
+8,222 Rue de l'Espérance,Bordeaux,33000,3,1,BTS,Licence,Collège
+9,333 Rue des Oliviers,Nantes,44000,5,3,Doctorat,Master,Lycée,Primaire,Primaire
+10,444 Rue des Vignes,Montpellier,34000,2,0,Baccalauréat,Aucun,
+11,555 Rue de la Forêt,Rennes,35000,4,2,Master,BTS,Lycée,Collège
+12,666 Avenue des Lumières,Paris,75000,1,0,Doctorat,, 
+13,777 Rue des Pivoines,Marseille,13000,3,1,Baccalauréat,Licence,Primaire
+14,888 Rue de la Gare,Lyon,69000,5,2,Master,BTS,Lycée,Primaire
+15,999 Rue des Pins,Nice,06000,2,0,Licence,Baccalauréat,
+16,1010 Rue de l'Horizon,Toulouse,31000,4,3,Doctorat,Master,Collège,Lycée,Primaire
+17,1111 Rue des Cèdres,Lille,59000,1,0,Licence,, 
+18,1212 Avenue des Fleurs,Strasbourg,67000,3,2,Master,BTS,Lycée,Collège
+19,1313 Boulevard des Roses,Bordeaux,33000,6,4,Doctorat,Baccalauréat,Lycée,Lycée,Collège,Primaire
+20,1414 Rue de la Mer,Nantes,44000,5,3,Master,Licence,Primaire,Lycée,Collège

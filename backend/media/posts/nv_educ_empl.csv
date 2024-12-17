@@ -1,0 +1,16 @@
+ID,Âge,Sexe,Niveau d'éducation,Type d'emploi,Revenu mensuel (en USD)
+1,25,F,Licence,Ingénieure,1200
+2,30,M,Master,Enseignant,1500
+3,22,F,Baccalauréat,Technicienne,800
+4,35,M,Doctorat,Recherche,2000
+5,28,F,Licence,Analyste,1100
+6,40,M,Secondaire,Artisan,600
+7,24,F,Baccalauréat,Assistante,700
+8,45,M,Secondaire,Ouvrier,500
+9,32,F,Master,Consultante,1700
+10,50,M,Secondaire,Commerçant,900
+11,29,F,Licence,Infirmière,1000
+12,37,M,Doctorat,Professeur,2200
+13,26,F,Baccalauréat,Assistante commerciale,850
+14,42,M,Secondaire,Agent de sécurité,650
+15,31,F,Master,Développeuse,1800

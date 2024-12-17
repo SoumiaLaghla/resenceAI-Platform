@@ -1,0 +1,16 @@
+ID,Type de régime,Nombre de repas par jour,Indice de masse corporelle (IMC),Problèmes nutritionnels signalés
+1,Omnivore,3,22,Non
+2,Végétarien,4,20,Non
+3,Vegan,3,19,Oui
+4,Omnivore,2,30,Oui
+5,Végétalien,5,21,Non
+6,Omnivore,3,24,Non
+7,Végétarien,4,18,Oui
+8,Vegan,3,22,Non
+9,Omnivore,3,27,Oui
+10,Végétalien,5,20,Non
+11,Omnivore,3,23,Non
+12,Vegan,3,21,Oui
+13,Végétarien,4,19,Non
+14,Omnivore,2,25,Oui
+15,Végétalien,5,22,Non

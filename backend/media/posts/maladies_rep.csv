@@ -1,0 +1,16 @@
+ID,Région,Niveau de pollution (PM2.5),Cas d'asthme (Oui/Non),Âge moyen des individus exposés
+1,Zone urbaine,65,Oui,35
+2,Zone rurale,20,Non,40
+3,Zone industrielle,80,Oui,30
+4,Zone urbaine,55,Oui,28
+5,Zone rurale,15,Non,45
+6,Zone industrielle,90,Oui,32
+7,Zone urbaine,50,Oui,38
+8,Zone rurale,18,Non,42
+9,Zone industrielle,75,Oui,29
+10,Zone urbaine,60,Oui,33
+11,Zone rurale,22,Non,50
+12,Zone industrielle,85,Oui,31
+13,Zone urbaine,58,Oui,36
+14,Zone rurale,19,Non,44
+15,Zone industrielle,88,Oui,34

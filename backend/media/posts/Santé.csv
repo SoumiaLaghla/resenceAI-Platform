@@ -1,0 +1,11 @@
+ID_Individu,Âge,Sexe,État_de_Santé,Accès_Assurance_Maladie,Visites_Médicales_Année,Nb_Hospitalisations_Année,Maladies_Chroniques,Région,Ville
+1,45,Femme,Bon,Oui,3,0,Non,Rabat-Salé-Kénitra,Rabat
+2,60,Homme,Moyen,Non,1,1,Oui,Grand Casablanca-Casablanca,Casablanca
+3,29,Femme,Bon,Oui,2,0,Non,Marrakech-Safi,Marrakech
+4,70,Homme,Mauvais,Oui,5,2,Oui,Fès-Meknès,Fès
+5,34,Homme,Bon,Non,0,0,Non,Tanger-Tétouan-Al Hoceïma,Tanger
+6,50,Femme,Moyen,Oui,4,1,Oui,Souss-Massa,Agadir
+7,25,Homme,Bon,Non,1,0,Non,L'Oriental,Oujda
+8,55,Femme,Mauvais,Non,6,3,Oui,Béni Mellal-Khénifra,Béni Mellal
+9,40,Homme,Moyen,Oui,2,0,Non,Guelmim-Oued Noun,Guelmim
+10,63,Femme,Mauvais,Oui,8,4,Oui,Dakhla-Oued Eddahab,Dakhla

@@ -1,0 +1,35 @@
+/* Changer la couleur des titres dans l'administration Django */
+h1, h2, h3, h4, h5, h6 {
+    color: #28a745;  /* Couleur verte */
+}
+
+/* Personnaliser tous les boutons pour s'assurer qu'ils sont en vert */
+.btn {
+    background-color: #28a745;  /* Couleur de fond verte */
+    border-color: #28a745;      /* Couleur de bordure verte */
+}
+
+.btn:hover {
+    background-color: #218838;  /* Couleur de fond verte foncée au survol */
+    border-color: #1e7e34;      /* Couleur de bordure verte foncée au survol */
+}
+/* Cibler le conteneur contenant le logo et le texte de bienvenue */
+.admin-header .welcome {
+    font-weight: bold;         /* Mettre en gras */
+    font-size: 24px;          /* Augmenter la taille de la police */
+    display: inline-block;     /* Afficher à côté du logo */
+    margin-left: 15px;        /* Espacement à gauche */
+    vertical-align: middle;    /* Aligner verticalement avec le logo */
+}
+
+/* Aligner le logo et le texte de bienvenue */
+.admin-header {
+    display: flex;             /* Utiliser flexbox pour aligner horizontalement */
+    align-items: center;       /* Centrer verticalement */
+}
+
+/* Pour s'assurer que le logo n'est pas déformé */
+.admin-header img.img-circle {
+    max-width: 50px;  /* Ajuste la taille du logo si nécessaire */
+    height: auto;     /* Garde le ratio d'aspect du logo */
+}

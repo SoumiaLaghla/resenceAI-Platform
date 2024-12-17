@@ -1,0 +1,16 @@
+ID,Secteur,Nombre d'employés (%),Proportion hommes (%),Proportion femmes (%)
+1,Agriculture,25,60,40
+2,Industrie,30,75,25
+3,Services,45,55,45
+4,Construction,20,85,15
+5,Éducation,15,30,70
+6,Santé,18,40,60
+7,Commerce,35,50,50
+8,Transport,22,80,20
+9,Technologie,12,70,30
+10,Finance,10,45,55
+11,Administration,20,50,50
+12,Artisanat,15,65,35
+13,Énergie,8,90,10
+14,Recherche,5,60,40
+15,Autres,7,50,50

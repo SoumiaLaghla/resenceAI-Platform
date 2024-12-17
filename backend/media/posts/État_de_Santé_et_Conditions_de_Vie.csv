@@ -1,0 +1,16 @@
+ID,Age,Sexe,État de santé,Revenu mensuel (en USD),Nombre d'enfants,Accès à des soins
+1,34,F,Bon,1500,2,Oui
+2,45,M,Moyen,1200,3,Non
+3,28,F,Bien,2000,0,Oui
+4,60,M,Médiocre,800,4,Non
+5,25,F,Excellent,2500,0,Oui
+6,52,M,Bien,1800,1,Oui
+7,30,M,Moyen,1300,2,Non
+8,40,F,Médiocre,900,3,Non
+9,33,F,Bon,1700,1,Oui
+10,58,M,Médiocre,1000,5,Non
+11,35,F,Excellent,2200,0,Oui
+12,50,M,Moyen,1100,2,Non
+13,22,F,Bien,2400,0,Oui
+14,48,M,Bon,1600,3,Oui
+15,39,F,Bon,2000,1,Oui

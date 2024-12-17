@@ -1,0 +1,16 @@
+ID,Secteur,Contrats permanents (%),Contrats temporaires (%),Contrats saisonniers (%)
+1,Agriculture,10,20,70
+2,Industrie,40,50,10
+3,Services,50,40,10
+4,Construction,30,60,10
+5,Éducation,70,20,10
+6,Santé,65,30,5
+7,Commerce,45,50,5
+8,Transport,50,40,10
+9,Technologie,80,15,5
+10,Finance,85,10,5
+11,Administration,75,20,5
+12,Artisanat,30,40,30
+13,Énergie,70,25,5
+14,Recherche,90,8,2
+15,Autres,50,40,10

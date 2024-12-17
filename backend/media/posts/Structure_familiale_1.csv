@@ -1,0 +1,11 @@
+ID_Famille,Nb_Enfants,Statut_Marital_Chef_Famille,Âge_Chef_Famille,Sexe_Chef_Famille,Revenu_Mensuel (MAD),Niveau_Education_Chef_Famille,Région,Ville
+1,3,Marié,45,Homme,12000,Licence,Rabat-Salé-Kénitra,Rabat
+2,1,Célibataire,30,Femme,8000,Baccalauréat,Grand Casablanca-Casablanca,Casablanca
+3,4,Marié,50,Homme,15000,Master,Fès-Meknès,Fès
+4,2,Veuf,60,Femme,6000,Collège,Marrakech-Safi,Marrakech
+5,5,Marié,38,Homme,9000,Baccalauréat,Tanger-Tétouan-Al Hoceïma,Tanger
+6,2,Divorcée,48,Femme,7000,Licence,Souss-Massa,Agadir
+7,3,Marié,35,Homme,11000,Collège,L'Oriental,Oujda
+8,1,Marié,28,Femme,7500,Master,Béni Mellal-Khénifra,Béni Mellal
+9,4,Veuf,65,Homme,5000,Primaire,Dakhla-Oued Eddahab,Dakhla
+10,2,Divorcée,40,Femme,8500,Licence,Grand Casablanca-Casablanca,Mohammedia

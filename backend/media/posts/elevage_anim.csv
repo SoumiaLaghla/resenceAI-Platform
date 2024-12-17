@@ -1,0 +1,16 @@
+ID,Région,Type d'animal,Nombre d'animaux,Production annuelle (litres ou kg)
+1,Nord,Bovins,50,20000
+2,Est,Ovins,80,8000
+3,Sud,Caprins,60,6000
+4,Ouest,Volaille,200,15000
+5,Est,Bovins,70,25000
+6,Sud,Ovins,90,9000
+7,Ouest,Caprins,55,5500
+8,Est,Volaille,300,20000
+9,Sud,Bovins,40,18000
+10,Ouest,Ovins,85,8500
+11,Nord,Caprins,70,7000
+12,Est,Volaille,250,18000
+13,Sud,Bovins,60,23000
+14,Ouest,Ovins,100,10000
+15,Nord,Volaille,400,25000

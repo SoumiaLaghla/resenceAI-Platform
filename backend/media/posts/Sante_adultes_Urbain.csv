@@ -1,0 +1,11 @@
+id,age,gender,physical_activity,smoking,alcohol_consumption,health_issues,medical_visits,income,education_level,urban_density,air_quality,noise_exposure
+1,34,F,High,No,Occasionally,None,2,40000,High,Moderate,Good,Moderate
+2,45,M,Low,Yes,Regular,Diabetes,5,32000,Medium,High,Poor,High
+3,29,F,Moderate,No,No,None,1,38000,High,Moderate,Moderate,Low
+4,56,M,Low,Yes,Occasionally,Hypertension,6,28000,Low,High,Poor,High
+5,40,F,High,No,No,None,2,45000,Medium,Moderate,Good,Moderate
+6,33,M,Moderate,Yes,Occasionally,None,1,50000,High,Moderate,Good,Low
+7,50,F,Low,Yes,Regular,Heart Disease,8,27000,Low,High,Poor,High
+8,44,M,High,No,Occasionally,None,3,42000,Medium,Low,Good,Moderate
+9,39,F,Moderate,No,No,Asthma,4,33000,Medium,Moderate,Poor,Moderate
+10,47,M,Low,Yes,Regular,Diabetes,5,31000,Low,High,Poor,High

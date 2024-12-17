@@ -1,0 +1,16 @@
+ID,Région d'origine,Région de destination,Raison principale,Âge moyen des migrants,Revenu moyen (en USD)
+1,Rural,Urbain,Travail,30,1500
+2,Urbain,Rural,Retraite,65,1000
+3,Rural,Urbain,Éducation,22,1200
+4,Rural,Urbain,Travail,28,1800
+5,Urbain,Rural,Famille,40,1300
+6,Rural,Urbain,Travail,35,2000
+7,Urbain,Rural,Retraite,70,900
+8,Rural,Urbain,Éducation,24,1100
+9,Urbain,Rural,Famille,45,1400
+10,Rural,Urbain,Travail,32,1700
+11,Rural,Urbain,Travail,29,1900
+12,Urbain,Rural,Famille,50,1250
+13,Rural,Urbain,Éducation,23,1150
+14,Rural,Urbain,Travail,27,1600
+15,Urbain,Rural,Retraite,68,850

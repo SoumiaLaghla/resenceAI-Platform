@@ -1,0 +1,16 @@
+ID,Région,Revenu mensuel (USD),Accès à l'eau potable (%),Niveau d'éducation (Primaire/Secondaire/Supérieur)
+1,Nord,150,80,Primaire
+2,Est,200,90,Secondaire
+3,Sud,100,70,Primaire
+4,Ouest,250,95,Supérieur
+5,Est,180,85,Secondaire
+6,Sud,120,60,Primaire
+7,Est,220,88,Secondaire
+8,Sud,150,75,Primaire
+9,Ouest,300,92,Supérieur
+10,Nord,170,83,Secondaire
+11,Est,250,90,Supérieur
+12,Sud,110,65,Primaire
+13,Ouest,270,93,Supérieur
+14,Nord,190,82,Secondaire
+15,Est,210,87,Secondaire

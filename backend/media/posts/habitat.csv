@@ -1,0 +1,11 @@
+ID_Habitation,Adresse,Ville,Code_Postal,Type_Habitation,Nb_Pieces,Surface_m2,Nb_Residents,Nb_Enfants,Revenu_Mensuel_Menage
+1,123 Rue des Fleurs,Paris,75000,Appartement,3,75,4,2,3000
+2,456 Avenue des Champs,Marseille,13000,Maison,5,120,5,3,4500
+3,789 Boulevard de la Mer,Nice,06000,Appartement,2,50,2,0,2200
+4,321 Rue du Lac,Lyon,69000,Maison,4,100,3,1,3500
+5,654 Rue des Palmiers,Toulouse,31000,Appartement,3,70,2,0,2800
+6,987 Place de la Liberté,Lille,59000,Appartement,1,35,1,0,1500
+7,111 Rue de la Paix,Strasbourg,67000,Maison,6,150,6,4,6000
+8,222 Rue de l'Espérance,Bordeaux,33000,Appartement,4,85,3,1,3800
+9,333 Rue des Oliviers,Nantes,44000,Maison,5,130,5,3,5000
+10,444 Rue des Vignes,Montpellier,34000,Appartement,2,55,2,0,2400

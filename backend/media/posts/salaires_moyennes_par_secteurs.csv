@@ -1,0 +1,16 @@
+ID,Secteur,Salaire moyen (USD),Écart hommes-femmes (USD)
+1,Agriculture,1200,200
+2,Industrie,2000,300
+3,Services,1800,250
+4,Construction,2200,400
+5,Éducation,1600,100
+6,Santé,1700,150
+7,Commerce,1500,200
+8,Transport,1900,300
+9,Technologie,3000,500
+10,Finance,3500,600
+11,Administration,1800,200
+12,Artisanat,1400,150
+13,Énergie,3200,400
+14,Recherche,4000,800
+15,Autres,1600,250

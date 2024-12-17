@@ -1,0 +1,21 @@
+ID_Individu,Âge,Sexe,Niveau_Education,Statut_Emploi,Durée_Chômage (mois),Secteur_Activité_Précédent,Niveau_Expérience (années),Région,Ville
+1,32,Homme,Licence,Sans emploi,12,Industrie,7,Rabat-Salé-Kénitra,Rabat
+2,45,Femme,Baccalauréat,Sans emploi,24,Aucun,0,Grand Casablanca-Casablanca,Agadir
+3,28,Homme,Master,Sans emploi,6,Informatique,4,Marrakech-Safi,Marrakech
+4,50,Femme,Doctorat,Sans emploi,36,Éducation,15,Fès-Meknès,Fès
+5,22,Homme,BEP,Sans emploi,4,Commerce,2,L'Oriental,Oujda
+6,39,Femme,Licence,Sans emploi,18,Banque,10,Souss-Massa,Tiznit
+7,33,Homme,Collège,Sans emploi,8,Transport,5,Béni Mellal-Khénifra,Béni Mellal
+8,27,Femme,Master,Sans emploi,10,Tourisme,3,Tanger-Tétouan-Al Hoceïma,Tanger
+9,41,Homme,Doctorat,Sans emploi,20,Agriculture,12,Dakhla-Oued Eddahab,Dakhla
+10,29,Femme,Baccalauréat,Sans emploi,6,Services administratifs,5,Guelmim-Oued Noun,Guelmim
+11,35,Homme,Collège,Sans emploi,14,Construction,7,Laâyoune-Sakia El Hamra,Laâyoune
+12,43,Femme,Licence,Sans emploi,30,Santé,20,Marrakech-Safi,Essaouira
+13,31,Homme,Master,Sans emploi,8,Communication,5,Rabat-Salé-Kénitra,Salé
+14,47,Femme,BEP,Sans emploi,22,Artisanat,10,Grand Casablanca-Casablanca,El Jadida
+15,25,Homme,Baccalauréat,Sans emploi,5,Informatique,3,Fès-Meknès,Meknès
+16,38,Femme,Doctorat,Sans emploi,28,Recherche scientifique,12,L'Oriental,Nador
+17,30,Homme,Collège,Sans emploi,6,Commerce,4,Béni Mellal-Khénifra,Khouribga
+18,26,Femme,Master,Sans emploi,7,Éducation,2,Souss-Massa,Agadir
+19,42,Homme,Licence,Sans emploi,12,Industrie,9,Marrakech-Safi,Safi
+20,36,Femme,Baccalauréat,Sans emploi,15,Services sociaux,10,Tanger-Tétouan-Al Hoceïma,Tétouan

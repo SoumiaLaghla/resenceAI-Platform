@@ -1,0 +1,21 @@
+ID_Habitation,Adresse,Ville,Code_Postal,Type_Habitation,Matériau_Construction,Accès_Eau_Potable,Électricité,Assainissement,Nb_Pieces,Surface_m2,Nb_Residents
+1,12 Rue Hassan II,Rabat,10000,Appartement,Béton armé,Oui,Oui,Collectif,3,75,4
+2,34 Rue des Oudayas,Casablanca,20000,Maison,Torchis,Non,Oui,Aucun,4,120,6
+3,56 Rue des Palmiers,Fès,30000,Appartement,Brique,Oui,Oui,Individuel,2,65,3
+4,78 Avenue Moulay Youssef,Marrakech,40000,Maison,Bloc de béton,Oui,Oui,Collectif,5,150,8
+5,90 Rue des Roses,Agadir,80000,Maison,Bois,Non,Non,Aucun,3,80,5
+6,123 Avenue Mohammed V,Tanger,90000,Appartement,Béton armé,Oui,Oui,Collectif,4,90,3
+7,234 Rue Oued Sebou,Meknès,50000,Maison,Parpaing,Oui,Oui,Individuel,6,200,7
+8,345 Rue El Alaoui,Oujda,60000,Appartement,Brique,Oui,Non,Collectif,2,50,2
+9,456 Rue des Cèdres,Laâyoune,70000,Maison,Terre battue,Non,Non,Aucun,4,110,6
+10,567 Avenue Errachidia,Nador,62000,Maison,Bloc de béton,Oui,Oui,Individuel,5,130,4
+11,678 Rue El Khalifa,Mohammédia,20800,Appartement,Béton armé,Oui,Oui,Collectif,3,85,4
+12,789 Rue des Amandiers,Essaouira,44000,Maison,Torchis,Non,Non,Aucun,3,95,5
+13,890 Rue El Fida,Casablanca,20250,Appartement,Brique,Oui,Oui,Collectif,2,60,2
+14,901 Avenue El Jadida,Settat,26000,Maison,Bois,Non,Non,Individuel,4,100,5
+15,1012 Rue Mohammed V,Beni Mellal,23000,Maison,Bloc de béton,Oui,Oui,Collectif,5,140,6
+16,1113 Rue Oued Eddahab,Dakhla,73000,Maison,Terre battue,Non,Non,Aucun,3,110,4
+17,1214 Rue des Jasmins,Marrakech,40000,Appartement,Béton armé,Oui,Oui,Individuel,3,70,3
+18,1315 Rue Ibn Batouta,Tétouan,93000,Maison,Brique,Oui,Oui,Individuel,4,100,6
+19,1416 Avenue Hassan II,Kenitra,14000,Appartement,Béton armé,Oui,Oui,Collectif,2,55,2
+20,1517 Rue Oued Laou,Tanger,90000,Maison,Bois,Non,Non,Aucun,5,115,7

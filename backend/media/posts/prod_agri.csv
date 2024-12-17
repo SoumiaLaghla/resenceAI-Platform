@@ -1,0 +1,16 @@
+ID,Région,Culture,Surface cultivée (ha),Production annuelle (tonnes)
+1,Nord,Blé,150,300
+2,Est,Maïs,200,500
+3,Sud,Riz,180,450
+4,Ouest,Coton,100,200
+5,Est,Blé,250,600
+6,Est,Riz,150,350
+7,Est,Coton,120,220
+8,Sud,Blé,200,400
+9,Est,Maïs,300,750
+10,Est,Riz,200,500
+11,Est,Blé,180,380
+12,Sud,Coton,130,240
+13,Nord,Riz,100,250
+14,Sud,Maïs,220,520
+15,Ouest,Blé,170,360
